@@ -1,2 +1,2 @@
-# DdRefreshLayout
-Pull and load more feature base on nest scrolling
+# DdNestedScrolling
+nested scrolling base class
